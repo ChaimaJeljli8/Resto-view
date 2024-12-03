@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Tasty Food 1",
+    "image": "flan.jpg",
+    "price": "$15.99",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Tasty Food 2",
+    "image": "chocofruit.jpg",
+    "price": "$12.99",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Tasty Food 3",
+    "image": "h2.webp",
+    "price": "$18.99",
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "name": "Tasty Food 4",
+    "image": "h6.webp",
+    "price": "$16.99",
+    "rating": 3.5
+  }
+]
